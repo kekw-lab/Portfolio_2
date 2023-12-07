@@ -12,3 +12,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.navigation_bar{
+  display: flex;
+  padding: 16px 80px;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+}
+
+
+
+
